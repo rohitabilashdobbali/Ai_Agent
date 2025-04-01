@@ -1,0 +1,30 @@
+
+STEP 1: Data Loading
+Successfully loaded 78105 samples from A.csv
+
+STEP 2: Feature Engineering
+Enhanced data shape: (78105, 19)
+Created 15 new features
+
+STEP 3: Data Visualization
+Created feature visualizations
+
+STEP 4: Data Preprocessing
+Preprocessed data shape: (78105, 18)
+
+STEP 5: Data Splitting
+
+STEP 6: Handling Class Imbalance
+
+STEP 7: Model Training
+
+STEP 8: Building Ensemble Model
+Ensemble model trained successfully
+
+STEP 9: Finding Optimal Threshold
+WARNING: Threshold optimization failed - find_optimal_threshold() takes 3 positional arguments but 4 were given
+Using default threshold: 0.5
+
+STEP 10: Model Evaluation
+Evaluating XGB model...
+ERROR: Model evaluation failed - name 'cv_results' is not defined
