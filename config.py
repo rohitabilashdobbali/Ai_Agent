@@ -5,7 +5,7 @@ Configuration settings for the Hardware Trojan Detection System
 import os
 
 # API Key for External Services
-LLAMA_API_KEY = "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"
+LLAMA_API_KEY = "API_KEY"
 os.environ["LLAMA_API_KEY"] = LLAMA_API_KEY
 
 # Paths
